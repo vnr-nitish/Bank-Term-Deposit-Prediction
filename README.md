@@ -1,5 +1,4 @@
-# 📊 Predicting Term Deposit Subscriptions – A Machine Learning Approach  
-**Capstone Project | Data Science Intern – Teachnook | May 2024**  
+# 📊 Predicting Term Deposit Subscriptions – A Machine Learning Approach   
 **Author:** Vinnakota Nitish Raj | `nvinnako2@gitam.in`
 
 ---
