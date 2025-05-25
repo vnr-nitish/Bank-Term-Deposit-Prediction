@@ -92,7 +92,7 @@ Among all models, **Random Forest and Gradient Boosting** achieved the best bala
 For any queries or collaboration opportunities, feel free to connect!
 
 **📧 Email:** nvinnako2@gitam.in  
-**🔗 LinkedIn:** [Your LinkedIn Profile Link]  
+**🔗 LinkedIn:** (https://linkedin.com/in/vnr-nitish)  
 **🌐 Portfolio:** [Your Portfolio Link]
 
 ---
